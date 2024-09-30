@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Ruben! </h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+- On Prem Active directory lab using Azure VM
+
+<h2>📺 Demo Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="RubenMichel | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: www.linkedin.com/in/rubenm25
 
 <!--
-**rmicheltech/rmicheltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
